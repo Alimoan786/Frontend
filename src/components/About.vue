@@ -3,7 +3,7 @@
     <section class="about" id="ABout">
       <div class="left p-5">
         <h1 class="text-4xl font-bold text-gray-50">
-          <span class="text-pink-600">The Insidious Jokers</span>
+          <span class="text-pink-600">Wierd Bear</span>
         </h1>
         <p
           class="
@@ -14,12 +14,12 @@
             subpixel-antialiased
           "
         >
-          The Insidious Jokers is a collection of 10,000 unique hand-drawn
+          The Wierd Bear is a collection of 5,000 unique hand-drawn
           characters. What makes us truly unique is that
           <span class="text-pink-500"
-            >this is the first collection of jokers on the market.</span
+            >this is the first collection of Bears on the market.</span
           >
-          Join the Insidious Jokers and make history with us. Get jokered with
+          Join the Wierd Bears and make history with us. Get Crazy with
           us.
         </p>
       </div>
@@ -35,11 +35,11 @@
 <script setup>
 import { onMounted, ref } from "@vue/runtime-core";
 const imgsrc = [
-  "DanielAmegan.png",
-  "Shahzain.png",
-  "Matvey.png",
-  "Daniil.png",
-  "NikolayZhulebin.jpeg",
+  "Alimoan.png",
+  "Shahul.png",
+  "Sara.png",
+  "Vishwa.png",
+  "RamzanAli.png",
 ];
 let imglength = imgsrc.length - 1;
 let newimgsrc = ref(null);

@@ -1,6 +1,6 @@
 <template>
   <div class="contact p-5" id="contact">
-    <h1 class="text-white text-center text-2xl my-1 font-bold">The Insidious Jokers</h1>
+    <h1 class="text-white text-center text-2xl my-1 font-bold">WIERD BEAR</h1>
     <h1 class="text-white text-center text-xl my-1 font-bold">Message Us</h1>
     <form>
       <input

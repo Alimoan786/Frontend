@@ -5,46 +5,46 @@
         <h1 class="text-white text-4xl">Meet Our Team</h1>
         <p class="text-white text-2xl">
           Each member of our team is truly passionate and dedicated to the
-          Insidious Jokers which will ensure success
+          Wierd Bear which will ensure success
         </p>
       </div>
       <div class="team-dp">
         <div class="dp">
           <img
             class="team-img w-72"
-            src="../assets/TeamPictures/Daniil.png"
-            alt="Daniel Amegan"
+            src="../assets/TeamPictures/RamzanAli.png"
+            alt="Ramzan Ali M"
           />
-          <h1>Daniil Mikhailov</h1>
+          <h1>Ramzan Ali M</h1>
           <p>Founder & CEO</p>
 
         </div>
         <div class="dp">
           <img
             class="team-img w-72"
-            src="../assets/TeamPictures/Matvey.png"
-            alt="Matvey Kuzmenko"
+            src="../assets/TeamPictures/Sara.png"
+            alt="Sara Fathima"
           />
-          <h1>Matvey Kuzmenko</h1>
+          <h1>Sara Fathima</h1>
           <p>Co-founder</p>
         </div>
         <div class="dp">
           <img
             class="team-img w-72"
-            src="../assets/TeamPictures/Shahzain.png"
-            alt="Shahzain Gill"
+            src="../assets/TeamPictures/Shahul.png"
+            alt="Shahul Munavar"
           />
-          <h1>Shahzain Gill</h1>
+          <h1>Shahul Munavar</h1>
           <p>MD & Content Creator</p>
 
         </div>
         <div class="dp">
           <img
             class="team-img w-72"
-            src="../assets/TeamPictures/DanielAmegan.png"
-            alt="Daniel Amegan"
+            src="../assets/TeamPictures/Vishwa.png"
+            alt="Vishwa"
           />
-          <h1>Daniel Amegan</h1>
+          <h1>Vishwa</h1>
           <p>Head Designer</p>
 
 
@@ -53,10 +53,10 @@
         <div class="dp">
           <img
             class="team-img w-72"
-            src="../assets/TeamPictures/NikolayZhulebin.jpeg"
-            alt="Nikolay Zhulebin"
+            src="../assets/TeamPictures/Alimoan.png"
+            alt="Ramzan Ali M"
           />
-          <h1>Nikolay Zhulebin</h1>
+          <h1>Ramzan Ali M</h1>
           <p>Designer </p>
 
 

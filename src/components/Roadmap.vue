@@ -1,6 +1,6 @@
 <template>
   <div class="roadmap">
-    <section class="ic-section ic-roadmap pb-0" id="ICRoadmap">
+    <section class="ic-section ic-roadmap pb-0" id="WRBRoadmap">
       <div class="container">
         <div class="ic-section-title center">
           <h1
@@ -12,7 +12,7 @@
               font-family: 'Poppins';
             "
           >
-            ROADMAP
+            WIERD BEAR ROADMAP
           </h1>
         </div>
         <p
@@ -56,7 +56,7 @@
                           >2nd milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >Giveaway of 50 NFTS with total worth of $10,000</span
+                          >Giveaway of 500 NFTS with total worth of $5,000</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
@@ -104,13 +104,12 @@
                           >4th milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >Presales</span
+                          >DEPLOY NFT TOKEN</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          🎉 DISCORD MEMBERS WHO ARE QUALIFIED INTO WHITELIST
-                          WILL BE ABLE TO TAKE PART IN PRESALES 🎉
+                          🎉 WILL BE ANNOUNCED SOON 🎉
                         </li>
                       </ul>
                     </div>
@@ -129,13 +128,13 @@
                           >6th milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1">
-                          EXCLUSIVE COMPETITIONS FOR INSIDIOUS HOLDERS
+                          EXCLUSIVE COMPETITIONS FOR Wierd Bear HOLDERS
                         </span>
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          Exclusive competitions will be hosted for Insidious
-                          Joker holders only, involving Ethereum, NFTs & Cash
+                          Exclusive competitions will be hosted for Wierd
+                        Bear holders only, involving Polygon Matic, NFTs & Cash
                           Giveaways. 💰
                         </li>
                       </ul>
@@ -156,7 +155,7 @@
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          A portion of ETH from the sale will be donated to
+                          A portion of MATIC from the sale will be donated to
                           charity. 🤝
                         </li>
                       </ul>
@@ -181,7 +180,7 @@
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          A portion of ETH from the sale will be donated to
+                          A portion of MATIC from the sale will be donated to
                           charity. 🤝
                         </li>
                       </ul>
@@ -197,13 +196,13 @@
                           >6th milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >EXCLUSIVE COMPETITIONS FOR INSIDIOUS HOLDERS
+                          >EXCLUSIVE COMPETITIONS FOR Wierd Bear
                         </span>
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          Exclusive competitions will be hosted for Insidious
-                          Joker holders only, involving Ethereum, NFTs & Cash
+                          Exclusive competitions will be hosted for Wierd
+                          Bear holders only, involving MATIC, NFTs & Cash
                           Giveaways. 💰
                         </li>
                       </ul>
@@ -229,7 +228,7 @@
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          Insidious Joker holders will be invited to private
+                          Wierd Bear holders will be invited to private
                           parties in Dubai where valuable connections will be
                           found & made, taking your network and net-worth to the
                           next level. 📈
@@ -246,13 +245,13 @@
                           >8th milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >THE INSIDIOUS JOKERS MOBILE GAME</span
+                          >THE Wierd Bear MOBILE GAME</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          Once 75% of the Insidious Jokers collection is sold out, the Insidious Jokers game
-for iOS/Android will be released where our Insidious holders
+                          Once 75% of the Wierd Bear collection is sold out, the Wierd Bears game
+for iOS/Android will be released where our Wierd holders
 can use their NFTs as their unique characters in the game. 🎮
                         </li>
                       </ul>

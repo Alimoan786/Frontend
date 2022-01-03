@@ -53,14 +53,14 @@ onMounted(() => {
       "
     >
       <section class="first">
-        <img src="../assets/ij_logo_negate.svg" class="w-32" alt="" />
+        <img src="../assets/logo.png" class="w-32" alt="" />
       </section>
       <section class="second">
         <ul class="flex flex-row">
           <li><a class="nm-1 nm-a" href="#ABout">ABOUT</a></li>
           <li><a class="nm-2 nm-a" href="#FEatures">FEATURES</a></li>
           <li><a class="nm-6 nm-a" href="#Rarity">RARITY</a></li>
-          <li><a class="nm-3 nm-a" href="#ICRoadmap">ROADMAP</a></li>
+          <li><a class="nm-3 nm-a" href="#WRBRoadmap">ROADMAP</a></li>
           <li><a class="nm-4 nm-a" href="#Team">TEAM</a></li>
           <li><a class="nm-5 nm-a" href="#FAQ">FAQ</a></li>
           <!-- <li><a class="nm-6" href="#contact">CONTACT</a></li> -->
@@ -76,7 +76,7 @@ onMounted(() => {
             hover:bg-pink-800
             cursor-pointer
           "
-          href="https://opensea.io/collection/insidious-jokers-collection"
+          href="https://opensea.io/collection/wierd-bear"
           target="_blank"
         >
           <img src="../assets/Logomark-Transparent.svg" class="" alt="" />
@@ -91,7 +91,7 @@ onMounted(() => {
             hover:bg-pink-800
             cursor-pointer
           "
-          href="https://www.instagram.com/insidiousjokers/"
+          href="https://www.instagram.com/wierd_bear_nft/"
           target="_blank"
         >
           <i
@@ -108,7 +108,7 @@ onMounted(() => {
             hover:bg-pink-800
             cursor-pointer
           "
-          href="https://twitter.com/IJ_NFT"
+          href="https://twitter.com/wierd_bear"
           target="_blank"
         >
           <i
@@ -135,9 +135,9 @@ onMounted(() => {
               join
             "
             type="submit"
-            formaction="https://discord.gg/fYbdMA5fxX"
+            formaction="https://mint.wierdbear.com"
           >
-            JOIN OUR DISCORD
+            Mint NFTs
           </button>
         </form>
       </section>
@@ -147,9 +147,9 @@ onMounted(() => {
   <div class="mobile-nav" :style="mobileNav">
     <div class="nav-mobile-cover flex flex-row justify-between items-center">
       <img
-        src="../assets/ij_logo_negate.svg"
+        src="../assets/logo.png"
         class="w-16 m-2.5"
-        alt="Insidious Jokers"
+        alt="Wierd Bear"
       />
        <a
         style="margin-left: 1px"
@@ -160,7 +160,7 @@ onMounted(() => {
           hover:bg-pink-800
           cursor-pointer
         "
-        href="https://opensea.io/collection/insidious-jokers-collection"
+        href="https://opensea.io/collection/wierd-bear"
         target="_blank"
       >
         <img src="../assets/Logomark-Transparent.svg" class="" alt="" />
@@ -175,7 +175,7 @@ onMounted(() => {
           hover:bg-pink-800
           cursor-pointer
         "
-        href="https://www.instagram.com/insidiousjokers/"
+        href="https://www.instagram.com/wierd_bear_nft/"
         target="_blank"
       >
         <i
@@ -192,7 +192,7 @@ onMounted(() => {
           hover:bg-pink-800
           cursor-pointer
         "
-        href="https://twitter.com/InsidiousJokers"
+        href="https://twitter.com/wierd_bear"
         target="_blank"
       >
         <i
@@ -235,7 +235,7 @@ onMounted(() => {
       <li><a href="#ABout" class="nm-a">ABOUT</a></li>
       <li><a href="#FEatures" class="nm-a">FEATURES</a></li>
       <li><a class="nm-a" href="#Rarity">RARITY</a></li>
-      <li><a href="#ICRoadmap" class="nm-a">ROADMAP</a></li>
+      <li><a href="#WRBRoadmap" class="nm-a">ROADMAP</a></li>
       <li><a href="#Team" class="nm-a">TEAM</a></li>
       <li><a href="#FAQ" class="nm-a">FAQ</a></li>
       <!-- <li><a href="#contact">CONTACT</a></li> -->
@@ -259,9 +259,9 @@ onMounted(() => {
           ml-7
           mt-5
         "
-        formaction="https://discord.gg/fYbdMA5fxX"
+        formaction="https://mint.wierdbear.com"
       >
-        JOIN OUR DISCORD
+        Mint Wierd Bear
       </button>
     </form>
   </nav>

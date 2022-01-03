@@ -1,6 +1,6 @@
 <template>
   <h1 id="Rarity" class="text-center text-white text-4xl font-bold my-10">
-    RARITY OF JOKERS
+    RARITY OF Wierd Bear
   </h1>
   <section class="rarity-guide">
     <div class="left">
@@ -13,15 +13,14 @@
           subpixel-antialiased
         "
       >
-        The rarity of Insidious Jokers is determined by the properties they
-        have. There are a total of 11 properties that include
+        The rarity of Wierd Bear is determined by the properties they
+        have. There are a total of 7 properties that include
         <span class="text-pink-500">
-          backgrounds, skin tones, outfits, smiles, noses, eyes, face tattoos,
-          hats, glasses, earrings, and chains.</span
+          BACKGROUND, BODY, EYES, FANCy, MOUTH, SHADOW, and DRESS.</span
         >
-        The more attributes your Joker has, the rarer your Joker is. Moreover,
-        the rare ones have more exclusive attributes. There are also 30 super
-        exclusive Jokers that are totally different from all the others.
+        The more attributes your Bears has, the rarer your Bears is. Moreover,
+        the rare ones have more exclusive attributes. There are also 6 super
+        exclusive Bears that are totally different from all the others.
       </p>
     </div>
     <div

@@ -7,7 +7,7 @@
       <div class="right p-5 text-4xl font-bold text-gray-50">
         <h1>
           <span class="text-pink-600">
-            Over 150 hand-drawn items. Your Joker will be one of a kind</span
+            Over 150 hand-drawn items. Your Bear will be one of a kind</span
           >
         </h1>
         <p
@@ -20,11 +20,10 @@
           "
           style="font-weight: normal; font-size: 20px"
         >
-          The Insidious Jokers collection has over 150 accessories and 11
-          properties which determine the rarity of your joker. Properties
+          The Wierd Bear collection has over 60 accessories and 7
+          properties which determine the rarity of your Bears. Properties
           include<span class="text-pink-600">
-            skin tone, backgrounds, outfits, hats, chains, earrings, glasses, face tattoos,
-            smiles, noses, and eyes.</span
+            BACKGROUND, BODY, EYES, FANCy, MOUTH, SHADOW, and DRESS.</span
           >
           Each piece was precisely drawn by our talented team of professional
           and highly qualified designers.

@@ -4,7 +4,7 @@
       <div class="logo-section">
         <img
           src="../assets/ij_logo_negate.svg"
-          alt="logo insidious jokers"
+          alt="logo wierd bear"
           class="logo-img"
         />
       </div>

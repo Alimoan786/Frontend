@@ -2,9 +2,9 @@
   <footer>
     <div class="footer-cover">
       <img
-        src="../assets/ij_logo_negate.svg"
+        src="../assets/FooterLogo.png"
         class="w-32 object my-3"
-        alt="Insidious Jokers"
+        alt="Wierd Bear"
       />
       <div class="social-icon my-3">
         <a
@@ -21,7 +21,7 @@
             cursor-pointer
             hover:bg-pink-800 hover:text-white
           "
-          href="https://opensea.io/collection/insidious-jokers-collection"
+          href="https://opensea.io/collection/wierd_bear"
           target="_blank"
         >
           <img src="../assets/Logomark-Transparent.svg" alt="" />
@@ -41,7 +41,7 @@
             cursor-pointer
             hover:bg-pink-800 hover:text-white
           "
-          href="https://discord.gg/fYbdMA5fxX"
+          href="https://discord.com/invite/8JzvabaZuf"
           target="_blank"
         >
           <i
@@ -68,7 +68,7 @@
             hover:bg-pink-800
             cursor-pointer
           "
-          href="https://www.instagram.com/insidiousjokers/"
+          href="https://www.instagram.com/wierd_bear_nft/"
           target="_blank"
         >
           <i
@@ -96,7 +96,7 @@
             cursor-pointer
             hover:text-white
           "
-          href="https://twitter.com/IJ_NFT"
+          href="https://twitter.com/wierd_bear"
           target="_blank"
         >
           <i
@@ -112,7 +112,7 @@
       </div>
       <!-- <p class="term text-gray-50">Term of Service</p> -->
       <p class="copyright text-pink-700 font-bold">
-        Copyright © 2021 Insidious Jokers. All Rights Reserved​
+        Copyright © 2022 Wierd Bear. All Rights Reserved​
       </p>
     </div>
   </footer>

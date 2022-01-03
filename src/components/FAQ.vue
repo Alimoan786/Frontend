@@ -35,27 +35,27 @@ const faqToggle = ref(false);
 const faqItems = ref([
   {
     title: "What is your blockchain?",
-    ans: "The Polygon blockchain has been chosen so there will be 0 gas fees for our Insidious investors.",
+    ans: "The Polygon blockchain has been chosen so there will be 0 gas fees for our Wierd Bear investors.",
     id: 1,
   },
   {
-    title: "Who is behind the Insidious Jokers?",
-    ans: "We are a multinational team of 5 representing the following countries: Russia, Canada, UAE, and Pakistan. Each member of our team is truly passionate and dedicated to the Insidious Jokers which will ensure success.",
+    title: "Who is behind the Wierd Bear?",
+    ans: "We are a multinational team of 5 representing the following countries: Russia, Canada, UAE, and India. Each member of our team is truly passionate and dedicated to the Wierd Bear which will ensure success.",
     id: 2,
   },
   {
-    title: "How do I get my Joker? ",
+    title: "How do I get my Wierd Bear? ",
     ans: "The images as well as the metadata will be listed on OpenSea once our official launch date arrives. Join our Discord and follow our socials for more information.",
     id: 3,
   },
   {
     title: "What do I get?  ",
-    ans: "You will get a copyrighted material of your Insidious Joker, such as image files. The owner of the Insidious Jokers NFT has exclusive rights to create and distribute materials that are derived from the original work. Moreover, owners of our NFTs will be invited to grand parties held in Dubai where valuable connections will be found and made, taking your network and net-worth to the next level.",
+    ans: "You will get a copyrighted material of your Wierd Bear, such as image files. The owner of the Wierd Bear NFT has exclusive rights to create and distribute materials that are derived from the original work. Moreover, owners of our NFTs will be invited to grand parties held in Dubai where valuable connections will be found and made, taking your network and net-worth to the next level.",
     id: 4,
   },
   {
     title: "Is there a presale?",
-    ans: "Yes, the presale starts on December 1. Join our Discord and follow our socials for more information.",
+    ans: "No PRESALE.",
     id: 5,
   },
 ]);
